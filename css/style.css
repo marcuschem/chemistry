@@ -1,0 +1,38 @@
+h1{
+	background: orange;
+	text-align: center;
+	font-size: 200%;
+}
+header{
+	background: orange;
+}
+img{
+	display:block;
+	margin:auto;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 100 %;
+	font-family: Arial, "Time New Roman", serif
+}
+h2{background: green;
+  font-variant: small-caps;
+  font-size: 100 %;
+  font-family: Arial, "Time New Roman", serif
+}
+p{
+  font-variant: small-caps;
+  text-align: justify;
+  font-size: 100%;
+  font-family: Arial, "Time New Roman", serif;
+  }
+details{
+	font-style: italic;
+}
+sumary{
+	font-style:normal;
+}
+footer{
+	background:blue}
+	
+  
